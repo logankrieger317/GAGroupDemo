@@ -1,4 +1,8 @@
 echo "Here is a line of text in the file." >> ben.txt
 
+main
 
 Test test created a line
+
+weeeeeeeeeeee
+ Haroon

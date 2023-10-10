@@ -1,5 +1,6 @@
 echo "Here is a line of text in the file." >> Haroon.txt
 
+ main
  ben-Whittaker
 
 
@@ -9,3 +10,6 @@ ksnbnehjfbhienbfghij nfnudbvhnjk nsfwnejbfb uiehfwunwijenn
 
 changing stuff here
 
+
+i think it worked
+ Haroon
