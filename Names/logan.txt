@@ -1,3 +1,13 @@
 echo "Here is a line of text in the file." >> logan.txt
 
+ main
+
+ben-Whittaker
+snfjnejing  mewfnijnjknji suhuen ywub heb h eunujom
+
+
+Made some changes now
+main
+
 git is coooool
+ Haroon
