@@ -1,1 +1,3 @@
 echo "Here is a line of text in the file." >> michael.txt
+
+b hebfhejncjknkle m em n j kn  fjien n 
