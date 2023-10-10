@@ -1,4 +1,8 @@
 echo "Here is a line of text in the file." >> michael.txt
 
+ben-Whittaker
+b hebfhejncjknkle m em n j kn  fjien n 
+
 
 More stuff created here
+main
